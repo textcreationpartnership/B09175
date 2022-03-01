@@ -1,0 +1,468 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A further testimony to truth; or, Some earnest groans for a righteous settlement, in this hour of distraction, agreeable to the late essay, so suitably offered by some friends and brethren, to this purpose: by some baptized congregations, and other cordial lovers and assertors of the publick good old cause, in the counties of Leicester, Nottingham, Rutland, Lincoln, Stafford, Darby, and Shropshire.  To all that bear good will to Zion, and love the Lord Jesus, that have either power, opportunity, or hearts to appear for him, and his righteous cause, in this day.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09175</idno>
+            <idno type="STC">Wing F2566A</idno>
+            <idno type="STC">ESTC R215458</idno>
+            <idno type="EEBO-CITATION">69648669</idno>
+            <idno type="OCLC">ocm 69648669</idno>
+            <idno type="VID">184925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184925)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2880:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A further testimony to truth; or, Some earnest groans for a righteous settlement, in this hour of distraction, agreeable to the late essay, so suitably offered by some friends and brethren, to this purpose: by some baptized congregations, and other cordial lovers and assertors of the publick good old cause, in the counties of Leicester, Nottingham, Rutland, Lincoln, Stafford, Darby, and Shropshire.  To all that bear good will to Zion, and love the Lord Jesus, that have either power, opportunity, or hearts to appear for him, and his righteous cause, in this day.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Livewell Chapman],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: imprint cropped.</note>
+                  <note>Publisher of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Church history --  17th century.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184925:1" rendition="simple:additions"/>
+            <head>A further Teſtimony to Truth; or, ſome Earneſt Groans for a Righteous Settlement, in this hour of diſtraction, agreeable to the late Eſſay, ſo ſuitably offered by ſome Friends and Brethren, to this purpoſe: By ſome Baptized Congregations, and other Cordial Lovers and Aſſertors of the Publick Good Old Cauſe, in the Counties of <hi>Leiceſter, Nottingham, Rutland, Lincoln, Stafford, Darby,</hi> and <hi>Shropſhire.</hi>
+            </head>
+            <head type="sub">To all that bear good will to <hi>Zion,</hi> and love the Lord Jeſus, that have either power, opportunity, or hearts to appear for Him, and his Righteous Cauſe, in this Day.</head>
+            <p>THat in ſenſe of the late eminent and wonderful appearance of the Lord, who hath pleaſed not only thereby to work out ſo miracu<g ref="char:EOLhyphen"/>lous a ſalvation and deliverance for a poor ſcattered and divided handful of his unworthy people, from the rage and malice of a potent, united, and inraged enemy, that like Bees on every ſide roſe up againſt them.</p>
+            <p>But more eſpecially, and that which is more worth then thouſands of our Lives and Liberties, has he given ſuch good hopes (by his ſtill continued Revolutions and Over-turnings) of reviving his bleſſed Cauſe again in the midſt of us, after ſo many years death upon it; <hi>viz.</hi> The Exaltation of the Kingdome and Intereſt of Jeſus Chriſt, the glorious King of Saints and Nations, in the promi<g ref="char:EOLhyphen"/>ſed ruine and downfall of the Tyrannous, Beaſtly, and Antichriſtian Intereſt, which for ſo many hundred years has ſo bloudily domineer'd in the earth.</p>
+            <p>We therefore having our hearts ſomewhat warmed and affected herewith, ſeeing as yet ſo little improvement of the opportunity once more offer<g ref="char:EOLhyphen"/>ed, do take our ſelves concerned, with others of our dear Brethren that have gone before us herein, to be pleading and crying out for thoſe things which the Lords late Voice ſeems loudly to call for at our hands.</p>
+            <p>And firſt; we deſire in ſenſe of his great goodneſs, (and as we would be ſerviceable to the Lord in his great deſigns on foot) earneſtly to ſtir up our ſelves, and all the Lords people that are any way toucht with his late gracious Appearance, to a ſpeedy, thorough, and ſerious ſearch, how far any have had heart or hand in the late Dreadful Revolt and turning aſide from the Lord in that fearful Apoſtacy, by ſetting up, ſtanding by, or flatter<g ref="char:EOLhyphen"/>ingly addreſſing to either of thoſe two perſons, or others, that in oppoſition to the Work and Cauſe of God, has in chief been ſet over us, occaſioning ſo much Atheiſme, Reproach, and Blaſphemy: And that as any may be juſtly chargeable herewith, that there be accordingly a hearty return to the Lord, by a ſuitable repentance, taking the ſhame, and giving God the glory.</p>
+            <p>Secondly, that ſince the Lord has been pleaſed once again, by his diſtinguiſhing Providence, upon the late deciſion, to make a viſible ſeparation betwixt friends and enemies; (and ſo far to unravel the Apoſtacy, whoſe chief work it was to twiſt all Intereſts together, as though Chriſt and An<g ref="char:EOLhyphen"/>tichriſt were to be united) that in order to common preſervation and protection, and the ſecuring our beings, all ſpeedy and lawful wayes may be ta<g ref="char:EOLhyphen"/>ken for the incorporating, uniting, and impowering all known friends; the diſcountenancing, weakning, and outing all known enemies.</p>
+            <p>And thirdly, we do, as in conſcience bound, cry out for ſome ſpeedy exemplary Juſtice and puniſhment upon the heads of all ſorts that had their hands in the late Treaſon and Rebellion, that occaſioned the expence of that Blood and Treaſure, and gave ſuch general diſturbance throughout theſe three Nations.</p>
+            <p>And fourthly, in order to our well-being, and carrying on a thorough Reformation ſo long groaned after, and bled for, we loudly call out for that holy, equal, brief, and plain Law given by God in the Scriptures, to be the declared Law of theſe Nations, in oppoſition to the heatheniſh, tyran<g ref="char:EOLhyphen"/>nous, and Popiſh Laws yet in force amongſt us: And that men that are beſt read, and practiſed, and moſt anſwering the qualifications of Magiſtrates, according to Scripture-Rule, <hi>viz.</hi> men of courage, fearing God, and hating covetouſneſs, may be only imploy'd (as near as poſſible) to diſpence and execute under Chriſt this righteous Rule, in oppoſition to the ignorant, prophane, and ſcandalous; that ſo alſo ſome ſpeedy courſe may be taken to ſuppreſs that dilatory, vexatious, and oppreſſive way, that has ſo long been exercis'd by the mercenary, cruel, and covetous Lawyers, the ſhame of our Nation, and ſo utterly (in their corrupt courſe of practiſe) inconſiſtent to a Commonwealth.</p>
+            <p>Fifthly, that as the moſt effectual way to ſuppreſs and remove the Antichriſtian Miniſtery, (who have been ſuch Ring-leaders in this late Rebellion;) and ſo conſequently to promote and propagate the Goſpel of Jeſus Chriſt, and the New-Teſtament-Miniſtration thereof: Firſt, we claim, that the impoſition of that Jewiſh and Antichriſtian yoke of Tythes be removed: And the rather;</p>
+            <p>Firſt, Becauſe we find neither Law of God, nor by his Providence any from man, at this day, to inforce the ſame.</p>
+            <p>Secondly, Becauſe of late there has been that light, that ſtrength of Reaſon and Argument offered to publike view, both from the Laws of God and Man, that none has been able to ſtand before, or rationally to reply unto: See <hi>Milton, Pierſon, Osburn, &amp;c.</hi>
+            </p>
+            <p>And ſecondly, that as an intolerable burden, inconſiſtent with the Liberty of Conſcience unto all, the Rulers forbear for ever to impoſe any Nati<g ref="char:EOLhyphen"/>onal or Parochial Miniſtery, ſo as to inforce any form of Worſhip ſuited to their intereſt, or compel men of one perſwaſion, to maintain any man of another in the Miniſtery, or to lay a ſtumbling-block in the way of unbelievers, to the derogation of Chriſt, by compelling them to maintain his Miniſters.</p>
+            <p>And laſtly, the better to make all this practicable, and to remove all lets out of the way, we do moſt earneſtly beg and cry aloud for a ſpeedy and effectual applying the Rule laid down by the late Rulers, ſo agreeable to the Word of God, to all Officers in Publike Truſt, both Civil and Milita<g ref="char:EOLhyphen"/>ry, throughout the Nation, which we herewith inſert, wiſhing it may be writ in Letters of Gold, for every one to take notice of, that he that runs may read; <hi>viz.</hi> That Declaration of the ninth of <hi>May,</hi> 1659. <hi>That all ſuch as ſhall be in any place of Truſt and Power within this Commonwealth, be able for the diſcharge of ſuch Truſt, and that they be perſons fearing God, that have given teſtimony of their true love to all the people of God, and of their faithfulneſs to the Cauſe of this Commonwealth.</hi> And that all ſuch as anſwer not this wholeſome Rule, (thus by Gods Providence own'd, laid down, and aſſerted, as the qualification to Magiſtracy and Truſt) be ſpeedily removed all places of Authority and Truſt, and others be forthwith ſtill called, anſwering the ſame; that our enemies be not our Judges, nor rule over us: And that there may be a Publike Liberty to charge; and that it may be penal for any to continue, that are found unanſwerable thereto.</p>
+            <closer>
+               <signed>Atteſted and ſubſcribed in the Name, and by the appointment of the reſpective Congregations under-written, <hi>viz.</hi>
+                  <list>
+                     <head>LEICESTER AND NOTTINGHAMSHIRES.</head>
+                     <item>
+                        <list>
+                           <head>Leiceſter.</head>
+                           <item>William Inge</item>
+                           <item>Robert Coltman</item>
+                           <item>Edmond Perkinſon</item>
+                           <item>Thom. Pharren</item>
+                           <item>George Hopkins</item>
+                           <item>Rich. Hardy</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Markfield.</head>
+                           <item>George Moore</item>
+                           <item>Nicholas Ward</item>
+                           <item>Peter Sykes</item>
+                           <item>Thom. Bunney</item>
+                           <item>William Sykes</item>
+                           <item>Jo. Moore</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Quarndon.</head>
+                           <item>Ed. Smith</item>
+                           <item>Rob. Stevenſon</item>
+                           <item>Fr. Harris</item>
+                           <item>Edw. Thornton</item>
+                           <item>William Hull</item>
+                           <item>George Shittlewood</item>
+                           <item>Tho. Heford</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Knighten.</head>
+                           <item>William Wells, <hi>Sen.</hi>
+                           </item>
+                           <item>William Wells, <hi>Jun.</hi>
+                           </item>
+                           <item>Thom. Carthright</item>
+                           <item>Ri. Carthright</item>
+                           <item>Rob Coltman</item>
+                           <item>Ed. Heggs</item>
+                           <item>Ed. Brooks</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Loughborough.</head>
+                           <item>William Parker</item>
+                           <item>William Sadler</item>
+                           <item>Thom. Berington</item>
+                           <item>George Tomlinſon</item>
+                           <item>Jo. Quinton</item>
+                           <item>Rob. Peale</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Langton.</head>
+                           <item>Hen. Hartſhorn</item>
+                           <item>Thom. Grewcock</item>
+                           <item>Barthol. Cox</item>
+                           <item>Dennis Wright</item>
+                           <item>William Charton</item>
+                           <item>Thom. Iminges</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Winſwould.</head>
+                           <item>Edw. Blount</item>
+                           <item>Thom. Feaks</item>
+                           <item>Thom. H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ll</item>
+                           <item>Jo. Blum</item>
+                           <item>Edw. Thomſon</item>
+                           <item>Gabriel Leake</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Waltham.</head>
+                           <item>Tobias Watſon</item>
+                           <item>Jo. Darker</item>
+                           <item>Thom. Biſhell</item>
+                           <item>Hen. Redgate</item>
+                           <item>Ed. Templeman</item>
+                           <item>Pet. Smith</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Twiford.</head>
+                           <item>Jo. Louth</item>
+                           <item>William Mobery</item>
+                           <item>William Pocklinton</item>
+                           <item>Ri. Hill</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Nottingham.</head>
+                           <item>Charles Jarman</item>
+                           <item>George Tacey</item>
+                           <item>Thom. Gerey</item>
+                           <item>Rob. Shering</item>
+                           <item>William Buſh</item>
+                           <item>Matth. White</item>
+                           <item>Jo. Rick</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Ratby.</head>
+                           <item>Ri. Booth</item>
+                           <item>Daniel Cox</item>
+                           <item>Jo. Garner</item>
+                           <item>Steven White</item>
+                           <item>Peter Symkin</item>
+                           <item>William Cox</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Thornton.</head>
+                           <item>Ri. Fletcher</item>
+                           <item>Ri. Man</item>
+                           <item>Thom. Graunt</item>
+                           <item>Steven Bunney</item>
+                           <item>William Newbould</item>
+                           <item>Ed. Sketchley</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Rutland, Lincolnſhire, Staffordſhire, Derbyſhire, <hi>and</hi> Shropſhire.</head>
+                     <item>
+                        <list>
+                           <head>Burleigh.</head>
+                           <item>Thom. Smyth</item>
+                           <item>Ri. Wale</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Weſtby.</head>
+                           <item>William Pridgen</item>
+                           <item>Thom. Worth</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Burton.</head>
+                           <item>Luke Budworth</item>
+                           <item>John Blundill</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Darbyſhire-Peak.</head>
+                           <item>Robert Daken</item>
+                           <item>Thurſtone Wright</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Thorpe.</head>
+                           <item>Jo. Osburn</item>
+                           <item>James Tiptaft</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Burne.</head>
+                           <item>VVilliam Bell</item>
+                           <item>Jo. Skyrrit</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Halmer-end.</head>
+                           <item>Tho. Sillito</item>
+                           <item>Tho. Beech</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Narborough.</head>
+                           <item>Jo. Biſhell</item>
+                           <item>Jo. Meaſure</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Witham.</head>
+                           <item>William Hidſon</item>
+                           <item>VVilliam Bell</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Shrewsbury.</head>
+                           <item>Rich, Newton</item>
+                           <item>VVill. Highway</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>lbye.</head>
+                           <item>Jo. Wilkinſon</item>
+                           <item>Rob. Perk</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Stafford.</head>
+                           <item>VVilliam Elives</item>
+                           <item>Rich. VViſtons</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Ludlow.</head>
+                           <item>David Jones</item>
+                           <item>VVill. Haiton</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Sweaton</head>
+                           <item>Rob. Towers</item>
+                           <item>Jo. Foſter</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Berrey-Hill.</head>
+                           <item>Henry Haggar</item>
+                           <item>Tho. Ginder</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Darliſton <hi>and</hi> Elſmeer.</head>
+                           <item>Arthur Atkin</item>
+                           <item>George Chathcock</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Eaſton.</head>
+                           <item>Jo. Allin</item>
+                           <item>Sim. Ingram</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Litchfield.</head>
+                           <item>Lawrence Spooner</item>
+                           <item>John Cupper</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Bridgenorth.</head>
+                           <item>Walter Gaferis</item>
+                           <item>Tho. Law</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed> An Aſſent alſo hereunto has been given by the <hi>Warwickſhire</hi> Churches, whoſe ſubſcriptions, through ſome miſcarriage, came not timely to hand.</closer>
+            <argument>
+               <p>THis Teſtimony was intended before the late Change, though not unſeaſonable (as we judge) to be now publiſh'd; truſting theſe great and astoniſhing Revolutions will but make the more way <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the accompliſhment of our juſt deſires herein. Hoping the chief Inſtruments hereof, will now be the more ingag'd heartily to return to the Lord, and to proſecute their former Reſolu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngagements to Chriſt herein (in the day of their ſtraights: if not, we ſhall again inminde them of that ſeaſonable Word, ſo lately laid before them, <hi>Num. 32. 23.</hi> And that <hi>if at this <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſilent, <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>gement and <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>iver<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>iſe ſom<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> otherway,</hi> &amp;c. <hi>Eſt. 4. 14. <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+            </argument>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for <hi>Livew<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Popes-head-alley<g ref="char:punc">▪</g> 1659.</p>
+            <pb facs="tcp:184925:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
